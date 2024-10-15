@@ -1,0 +1,23 @@
+C:\Users\Administrator\source\repos\day21\Milestone 5 Selenium\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\Administrator\source\repos\day21\Milestone 5 Selenium\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\Administrator\source\repos\day21\Milestone 5 Selenium\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Administrator\source\repos\day21\Milestone 5 Selenium\bin\Debug\net6.0\Milestone 5 Selenium.exe
+C:\Users\Administrator\source\repos\day21\Milestone 5 Selenium\bin\Debug\net6.0\Milestone 5 Selenium.deps.json
+C:\Users\Administrator\source\repos\day21\Milestone 5 Selenium\bin\Debug\net6.0\Milestone 5 Selenium.runtimeconfig.json
+C:\Users\Administrator\source\repos\day21\Milestone 5 Selenium\bin\Debug\net6.0\Milestone 5 Selenium.dll
+C:\Users\Administrator\source\repos\day21\Milestone 5 Selenium\bin\Debug\net6.0\Milestone 5 Selenium.pdb
+C:\Users\Administrator\source\repos\day21\Milestone 5 Selenium\bin\Debug\net6.0\WebDriver.dll
+C:\Users\Administrator\source\repos\day21\Milestone 5 Selenium\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Administrator\source\repos\day21\Milestone 5 Selenium\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Administrator\source\repos\day21\Milestone 5 Selenium\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Administrator\source\repos\day21\Milestone 5 Selenium\obj\Debug\net6.0\Milestone 5 Selenium.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\day21\Milestone 5 Selenium\obj\Debug\net6.0\Milestone 5 Selenium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\day21\Milestone 5 Selenium\obj\Debug\net6.0\Milestone 5 Selenium.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\day21\Milestone 5 Selenium\obj\Debug\net6.0\Milestone 5 Selenium.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\day21\Milestone 5 Selenium\obj\Debug\net6.0\Milestone 5 Selenium.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\day21\Milestone 5 Selenium\obj\Debug\net6.0\Milestone 5 Selenium.csproj.CopyComplete
+C:\Users\Administrator\source\repos\day21\Milestone 5 Selenium\obj\Debug\net6.0\Milestone 5 Selenium.dll
+C:\Users\Administrator\source\repos\day21\Milestone 5 Selenium\obj\Debug\net6.0\refint\Milestone 5 Selenium.dll
+C:\Users\Administrator\source\repos\day21\Milestone 5 Selenium\obj\Debug\net6.0\Milestone 5 Selenium.pdb
+C:\Users\Administrator\source\repos\day21\Milestone 5 Selenium\obj\Debug\net6.0\Milestone 5 Selenium.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\day21\Milestone 5 Selenium\obj\Debug\net6.0\ref\Milestone 5 Selenium.dll
