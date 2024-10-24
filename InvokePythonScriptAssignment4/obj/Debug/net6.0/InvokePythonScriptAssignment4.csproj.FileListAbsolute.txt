@@ -1,0 +1,4 @@
+C:\Users\Administrator\source\repos\day21\InvokePythonScriptAssignment4\obj\Debug\net6.0\InvokePythonScriptAssignment4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\day21\InvokePythonScriptAssignment4\obj\Debug\net6.0\InvokePythonScriptAssignment4.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\day21\InvokePythonScriptAssignment4\obj\Debug\net6.0\InvokePythonScriptAssignment4.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\day21\InvokePythonScriptAssignment4\obj\Debug\net6.0\InvokePythonScriptAssignment4.csproj.CoreCompileInputs.cache

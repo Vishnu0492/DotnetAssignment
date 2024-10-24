@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFgeneration", "PDFgeneration.csproj", "{DBB856B3-698A-4F79-8F5D-0F5301A81F96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBB856B3-698A-4F79-8F5D-0F5301A81F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB856B3-698A-4F79-8F5D-0F5301A81F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB856B3-698A-4F79-8F5D-0F5301A81F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB856B3-698A-4F79-8F5D-0F5301A81F96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38A3991F-6594-41CC-848C-2064C09222D8}
+	EndGlobalSection
+EndGlobal
