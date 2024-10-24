@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\day21\Assignment6_Win32form\obj\Debug\Assignment6_Win32form.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\day21\Assignment6_Win32form\obj\Debug\Assignment6_Win32form.Form1.resources
+C:\Users\Administrator\source\repos\day21\Assignment6_Win32form\obj\Debug\Assignment6_Win32form.Properties.Resources.resources
+C:\Users\Administrator\source\repos\day21\Assignment6_Win32form\obj\Debug\Assignment6_Win32form.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\day21\Assignment6_Win32form\obj\Debug\Assignment6_Win32form.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\day21\Assignment6_Win32form\bin\Debug\Assignment6_Win32form.exe.config
+C:\Users\Administrator\source\repos\day21\Assignment6_Win32form\bin\Debug\Assignment6_Win32form.exe
+C:\Users\Administrator\source\repos\day21\Assignment6_Win32form\bin\Debug\Assignment6_Win32form.pdb
+C:\Users\Administrator\source\repos\day21\Assignment6_Win32form\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Administrator\source\repos\day21\Assignment6_Win32form\bin\Debug\itextsharp.dll
+C:\Users\Administrator\source\repos\day21\Assignment6_Win32form\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Administrator\source\repos\day21\Assignment6_Win32form\bin\Debug\itextsharp.xml
+C:\Users\Administrator\source\repos\day21\Assignment6_Win32form\obj\Debug\Assignment6_Win32form.csproj.CopyComplete
+C:\Users\Administrator\source\repos\day21\Assignment6_Win32form\obj\Debug\Assignment6_Win32form.exe
+C:\Users\Administrator\source\repos\day21\Assignment6_Win32form\obj\Debug\Assignment6_Win32form.pdb
